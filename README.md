@@ -26,3 +26,13 @@ A document with useful information on Google Tag Manager 2019
 
 #### Reset
 - `google_tag_manager["GTM-ABC123"].dataLayer.reset()` purges all stored keys in the dataLayer
+
+## Restrict tag deployment
+
+Follow [this giude](https://developers.google.com/tag-manager/web/restrict)
+
+
+## Preview mode
+### Safari
+
+Follow [this giude](https://www.simoahava.com/gtm-tips/enable-preview-mode-safari-browser/) to enable preview mode in Safari
