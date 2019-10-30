@@ -10,7 +10,7 @@
 * Set the new header name to : `Content-Security-Policy`
 * Set the value to : `script-src 'self' 'unsafe-inline' 'unsafe-eval' *`
 * Navigate to the website you would like to mofidify the CSP
-* Click the "+" button
+* Click the `+` button
 * Click on `Filter`
 * Scroll down  and make sure your website is listed under `Filters` with wildcard at the end `*` which means the enitre website
 * You can now inject any script from any source on this website locally on your machine
